@@ -1,5 +1,5 @@
 export function App() {
    
     
-    return <h1>Hello bolsonaro</h1>
+    return <h1>Hello</h1>
 }
